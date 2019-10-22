@@ -1,2 +1,2 @@
 # AI
-Repo for AI Class at UCF
+Repo for AI Class
